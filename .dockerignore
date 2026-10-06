@@ -1,0 +1,4 @@
+*
+!services/
+!services/order-service/
+!services/order-service/*.py
